@@ -2,8 +2,9 @@
 
 &ensp;
 
+&ensp;
 
-<h2 align="center"> Образовательное учреждение: Geekbrains
+<h1 align="center"> Geekbrains
 
 &ensp;
 
